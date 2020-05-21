@@ -1,9 +1,3 @@
-/** @author 
- *  Rashmi Priya : rxp170021
- *  Abhilasha Devkar : acd170130
- *  SP6 : Binary search tree
- **/
-
 package acd170130;
 
 import java.util.Comparator;

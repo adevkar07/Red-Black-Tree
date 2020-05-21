@@ -1,7 +1,7 @@
 # Red-Black-Tree (Single Pass)
 
 
-1) I have used BST(repository code), to find the parent of current node.
+1) I have used BST, to find the parent of current node.
 
 2) While adding any node into RBT,I am checking the tree from top and reshuffling it at any point of violation. When finally entire tree is balanced, I add the new node into the balanced tree.
 

@@ -1,9 +1,3 @@
-/** @author 
- *  Abhilasha Devkar : acd170130
- *  Rashmi Priya : rxp170021
- *  SP7 : Red Black Tree(Single Pass)
- **/
-
 package acd170130;
 
 import java.util.LinkedList;
